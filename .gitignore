@@ -1,0 +1,9 @@
+*.step
+*.stp
+*.sat
+*.sldprt
+*.sldasm
+*.csv
+*.png
+.DS_Store
+Thumbs.db
